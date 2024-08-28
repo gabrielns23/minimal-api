@@ -19,3 +19,11 @@
 /home/gabrielmatos/projects/minimal/minimal-api/obj/Debug/net6.0/minimal-api.pdb
 /home/gabrielmatos/projects/minimal/minimal-api/obj/Debug/net6.0/minimal-api.genruntimeconfig.cache
 /home/gabrielmatos/projects/minimal/minimal-api/obj/Debug/net6.0/ref/minimal-api.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Humanizer.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/MySqlConnector.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/gabrielmatos/projects/minimal/minimal-api/obj/Debug/net6.0/minimal-api.csproj.CopyComplete
