@@ -13,7 +13,11 @@ namespace minimal_api.Infraestrutura.Db
         public DbContexto(IConfiguration configuracaoAppSettings){
             _configuracaoAppSettings = configuracaoAppSettings;
         }
+
+
         public DbSet<Administrador> Administradores {get;set;} = default!;
+        public DbSet<Veiculo> Veiculos {get;set;} = default!;
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -38,9 +42,9 @@ namespace minimal_api.Infraestrutura.Db
                                             ServerVersion.AutoDetect(stringConexao)
                                             );
                 }
-            }
-            
+            }         
             
         }
+
     }
 }

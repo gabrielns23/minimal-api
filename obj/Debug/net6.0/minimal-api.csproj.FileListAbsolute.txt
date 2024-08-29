@@ -27,3 +27,15 @@
 /home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/MySqlConnector.dll
 /home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/gabrielmatos/projects/minimal/minimal-api/obj/Debug/net6.0/minimal-api.csproj.CopyComplete
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/gabrielmatos/projects/minimal/minimal-api/obj/Debug/net6.0/minimal-api.MvcApplicationPartsAssemblyInfo.cs
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/gabrielmatos/projects/minimal/minimal-api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
