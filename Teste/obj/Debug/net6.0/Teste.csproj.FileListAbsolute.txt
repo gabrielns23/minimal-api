@@ -119,3 +119,6 @@
 /home/gabrielmatos/projects/minimal/minimal-api/Teste/obj/Debug/net6.0/Teste.pdb
 /home/gabrielmatos/projects/minimal/minimal-api/Teste/obj/Debug/net6.0/Teste.genruntimeconfig.cache
 /home/gabrielmatos/projects/minimal/minimal-api/Teste/obj/Debug/net6.0/ref/Teste.dll
+/home/gabrielmatos/projects/minimal/minimal-api/Teste/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Testing.dll
+/home/gabrielmatos/projects/minimal/minimal-api/Teste/bin/Debug/net6.0/Microsoft.AspNetCore.TestHost.dll
+/home/gabrielmatos/projects/minimal/minimal-api/Teste/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
